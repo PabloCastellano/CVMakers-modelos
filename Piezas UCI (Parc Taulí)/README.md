@@ -1,5 +1,7 @@
 # Parc Taulí
 
+En el hospital Parc Taulí tienen un departamento para impresión 3D y están fabricando piezas para respiradores. Comparten todos los archivos, piezas, medidas...
+
 Estas son las piezas desarrolladas por Parc Taulí.
 
 Por favor consulta su web oficial antes de imprimir.
