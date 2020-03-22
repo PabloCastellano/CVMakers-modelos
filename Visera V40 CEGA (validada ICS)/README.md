@@ -8,6 +8,8 @@ Este modelo se puede imprimir en 40 /60 minutos dependiendo de la velocidad de i
 
 Imprimir en PETG o PLA según disponibilidad
 
+Video: https://t.me/c/1431650390/12357
+
 ## Parámetros de impresión
 
 * Tiempo de impressión: 40 min.
